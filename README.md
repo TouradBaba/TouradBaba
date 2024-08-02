@@ -62,7 +62,7 @@ I’m a passionate and aspiring data science student currently pursuing a Bachel
 
 ---
 
-I’m open to professional collaborations and project discussions. Feel free to connect with me on LinkedIn if you have any questions or opportunities to work together!
+I’m open to professional collaborations and project discussions. Feel free to connect with me on LinkedIn if you have any questions or would like to collaborate on data-related topics!
 
 
 
