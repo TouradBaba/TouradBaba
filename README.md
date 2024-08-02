@@ -14,7 +14,7 @@ I’m a passionate and aspiring data science student currently pursuing a Bachel
 ### [Multi-Page Dash Application 🌐](https://github.com/TouradBaba/exploratory_data_analysis_and_visualization/)
 - Developed a web application to visualize population and GDP data.
 - Created interactive dashboards and maps for demographic and economic insights.
-- Deployed on Heroku for easy accessibility.
+- Deployed on Heroku and PythonAnywhere for easy accessibility.
 
 ### [Trends in Science 📊](https://github.com/TouradBaba/Trends_in_Science)
 - Analyzed a large dataset of scholarly articles to categorize trends in science.
