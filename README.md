@@ -48,9 +48,9 @@ I’m a passionate and aspiring data science student currently pursuing a Bachel
 
 ## 📜 Certifications
 
-- IBM Data Science Professional Certificate
-- Deep Learning Specialization (DeepLearning.AI)
-- Machine Learning Specialization (DeepLearning.AI, Stanford University)
+- [IBM Data Science Professional Certificate](https://www.credly.com/badges/38f8ba2c-8243-4aba-8a23-88c3d4eb409a/linked_in_profile?trk=public_profile_see-credential)
+- [Deep Learning Specialization (DeepLearning.AI)](https://www.credly.com/badges/b7063cf7-cc38-4a7b-adfc-eee53b098677/public_url?trk=public_profile_see-credential)
+- [Machine Learning Specialization (DeepLearning.AI, Stanford University)](https://www.coursera.org/account/accomplishments/specialization/MY6NU8T7TNEW?trk=public_profile_see-credential)
 
 ## 🎓 Education
 
