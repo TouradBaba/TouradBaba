@@ -41,7 +41,7 @@ I’m a passionate and aspiring data science student currently pursuing a Bachel
 
 - **Programming:** Python, Object-Oriented Programming, Flask, FastAPI
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Deep Learning, NLP, MLOps
-- **Data Analysis:** Data Visualization, Data Wrangling, EDA, Web Scraping
+- **Data Analysis:** R, Data Visualization, Data Wrangling, EDA, Web Scraping
 - **Database:** SQL, MySQL, Database Design, Relational Databases, Data Warehouse Architecture, ETL
 - **Tools:** Azure, AWS, Docker, Kubernetes, TensorFlow, Keras, Git
 - **Project Management:** Familiar with Agile methodologies (Scrum, Kanban)
